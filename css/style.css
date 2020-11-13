@@ -1,0 +1,14 @@
+#tamanhoContainer{
+    margin-top: 40px;
+    width: 500px;
+  }
+  
+
+#botao{
+    background-color: #FF1168;
+    color: #ffffff;
+}
+#botao:hover{
+  pointer-events: auto;
+  background-color: #FF69B4;
+}
